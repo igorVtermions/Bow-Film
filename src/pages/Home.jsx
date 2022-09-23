@@ -23,8 +23,8 @@ export function Home(){
 
     return(
         <div className="container">
-            <h2 className="title">Melhores Filmes:</h2>
-            <div className="movies-Container">
+            <h2 className="title">Top Melhores Filmes:</h2>
+            <div className="movies-container">
                 {topMovies.length > 0 &&
                  topMovies.map((movie) => <Moviecard key={movie.id} movie={movie} />)}
             </div>
