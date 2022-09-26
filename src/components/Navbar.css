@@ -6,13 +6,7 @@
     background-color: #121212;
     
   }
-  
-  #navbar h2 a {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  
+    
   #navbar form {
     display: flex;
     gap: 0.5rem;
