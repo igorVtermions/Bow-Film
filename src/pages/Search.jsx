@@ -6,6 +6,7 @@ const SearchURL = import.meta.env.VITE_SEARCH;
 const apiKey = import.meta.env.VITE_API_KEY;
 
 import './MoviesGrid.css'
+import '../Styles/responsive.css'
 
 export function Search(){
 
