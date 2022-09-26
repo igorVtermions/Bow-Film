@@ -2,6 +2,9 @@
     .movies-container div{
         width: 100%;
     }
+    .movies-container{
+        padding-right: 0;
+    }
     .movie-page{
         width: 50%;
         padding: 20px;
