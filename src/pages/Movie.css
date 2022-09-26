@@ -20,6 +20,9 @@
 .movie-page .movie-card p{
     margin-bottom: 1rem;
 }
+.movie-card img{
+    border-radius: 10px;
+}
 
 
 .movie-page .movie-card h2{
