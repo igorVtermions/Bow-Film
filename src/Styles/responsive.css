@@ -1,5 +1,7 @@
 @media ( max-width: 700px){
-
+    .movies-container div{
+        width: 100%;
+    }
     .movie-card img{
         width: 350px;
     }
@@ -11,7 +13,7 @@
     #logo h3{
         display: none;
       }
-    .app-container{
+      .app-container{
         width: 100%;
-    }
+      }
 }
