@@ -2,6 +2,7 @@
     .movies-container div{
         width: 100%;
     }
+    
     .movie-card img{
         width: 350px;
     }
@@ -10,10 +11,12 @@
         text-align: justify;
         width: 350px;
     }
+
     #logo h3{
         display: none;
-      }
-      .app-container{
+    }
+
+    .app-container{
         width: 100%;
-      }
+    }
 }
